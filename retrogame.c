@@ -30,7 +30,7 @@ struct {
 	{ 24,      KEY_RIGHT    },
 	{ 23,      KEY_UP       },
 	{ 22,      KEY_DOWN     },
-	{ 21,      KEY_1        },
+	{ 27,      KEY_1        },
 	{ 17,      KEY_LEFTCTRL  },
 	{  4,      KEY_5        }
 };
